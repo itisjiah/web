@@ -40,21 +40,24 @@ body main img {
 	width: 49%;
 	margin-bottom: 50px;
 }
+body main p{
+	font-size: 20px;
 
-/*
-body main img:first-of-type {
-	width: 50px;
 }
 
-body main img:last-of-type {
-	width: 100px;
+body footer {
+	width: 100%;
+	margin: 0 auto;
+	background-color: black;
+	font-size: 18px;
+	height: 30px;
+	padding-bottom: 7px;
+
+	/*color: white;*/
 }
 
-body main img:nth-of-type(4) {
-	width: 300px;
+body footer p {
+	color: white;
+	text-decoration: none;
+	margin: 15px;
 }
-
-#big-image {
-	width: 120%;
-}
-*/
